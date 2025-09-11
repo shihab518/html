@@ -1,0 +1,17 @@
+.img1{
+	width:100%;
+	hight:100%;
+	/*      padding:10px;  */
+	border-radius:10%
+}
+.heading{
+	border:2px solid #FF0099;
+	text-align:center;
+	color:777A7A;
+}
+body{
+	background-color:9EF7B0;
+}
+h3{
+	font-size:40;
+}
